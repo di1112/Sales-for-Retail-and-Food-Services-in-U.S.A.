@@ -34,15 +34,20 @@ Project Structure
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Dataset
+
 The dataset used in this project contains historical sales data for Retail and Food Services in the U.S.A. The data has been collected from the U.S. government website, which ensures its authenticity and reliability. The dataset includes information such as NAICS code, category, sales figures, geographical regions, and time period (e.g., monthly or yearly).
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Database
+
 To facilitate data management and analysis, a SQL database has been created to store the dataset. SQL provides a robust and efficient way to query and manipulate the data. The database schema has been designed to ensure proper organization and ease of use. The structure of the database enables seamless integration with various data visualization tools.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Data Processing
+
 The data obtained from the U.S. government website might require some preprocessing to clean and transform it into a suitable format for analysis. SQL queries have been utilized to clean, filter, and transform the data as necessary. This ensures that the data used for the dashboard is accurate and reliable.
 
 
