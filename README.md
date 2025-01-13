@@ -27,10 +27,10 @@ Project Structure
 │   └── query_report.pdf         <- Final query report in PDF for verifying data.
 │   
 
+
 ├── src                <- Source for this project.
-    │
-    
-    ├── data           <- Datasets used and collected for this project.
+    |
+|   ├── data           <- Datasets used and collected for this project.
 
 
 
