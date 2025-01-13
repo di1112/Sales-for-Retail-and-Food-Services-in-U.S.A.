@@ -14,13 +14,27 @@ Project Structure
 
 │   │
 │   └── retail_sales_tables_db.sql       <- DB creation.
+
 │   └── analysis.sql                     <- Final queries.
+
 │   └── query_data                       <- Final queries data.
+
 ├── reports            <- Folder containing the final reports/results of this project.
+
 │   │
 │   └── query_report.docx        <- Final analysis report Document.
+
 │   └── query_report.pdf         <- Final query report in PDF for verifying data.
 │   
+
 ├── src                <- Source for this project.
     │
     ├── data           <- Datasets used and collected for this project.
+
+
+
+
+
+
+
+    
