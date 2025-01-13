@@ -7,8 +7,11 @@ Reports
 Project Structure
 
 ├── LICENSE
+
 ├── README.md          <- README .
+
 ├── query              <- Code of the DB creation and queries.
+
 │   │
 │   └── retail_sales_tables_db.sql       <- DB creation.
 │   └── analysis.sql                     <- Final queries.
