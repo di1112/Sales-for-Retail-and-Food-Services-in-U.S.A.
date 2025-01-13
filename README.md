@@ -38,6 +38,7 @@ Project Structure
 Dataset
 
 The dataset used in this project contains historical sales data for Retail and Food Services in the U.S.A. The data has been collected from the U.S. government website, which ensures its authenticity and reliability. The dataset includes information such as NAICS code, category, sales figures, geographical regions, and time period (e.g., monthly or yearly).
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Database
