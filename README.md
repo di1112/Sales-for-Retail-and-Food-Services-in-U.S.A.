@@ -54,6 +54,10 @@ The data obtained from the U.S. government website might require some preprocess
 
 
 
+![image](https://github.com/user-attachments/assets/ee808e8e-0a65-4f15-8777-020fa437ec4b)
+![image](https://github.com/user-attachments/assets/25963d88-ddad-48f9-9ba9-97cc27ab5390)
+
+
 
 
 
